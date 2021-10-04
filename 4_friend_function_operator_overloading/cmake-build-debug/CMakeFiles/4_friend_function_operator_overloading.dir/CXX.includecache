@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/4. Codes/C++  2021/C++7/4_friend_function_operator_overloading/_4.h
+iostream
+-
+
+H:/4. Codes/C++  2021/C++7/4_friend_function_operator_overloading/main.cpp
+iostream
+-
+_4.h
+H:/4. Codes/C++  2021/C++7/4_friend_function_operator_overloading/_4.h
+
