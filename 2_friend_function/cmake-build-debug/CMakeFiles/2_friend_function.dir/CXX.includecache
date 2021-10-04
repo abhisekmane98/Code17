@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+H:/4. Codes/C++  2021/C++7/2_friend_function/_2.cpp
+_2.h
+H:/4. Codes/C++  2021/C++7/2_friend_function/_2.h
+iostream
+-
+
+H:/4. Codes/C++  2021/C++7/2_friend_function/_2.h
+

@@ -1,0 +1,3 @@
+H:/4. Codes/C++  2021/C++7/2_friend_function/cmake-build-debug/CMakeFiles/2_friend_function.dir
+H:/4. Codes/C++  2021/C++7/2_friend_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/4. Codes/C++  2021/C++7/2_friend_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
